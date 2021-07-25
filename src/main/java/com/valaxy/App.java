@@ -1,7 +1,7 @@
 package com.valaxy;
 
 /**
- * Hello world, hi hih hi  hi!
+ * Hello world, hi hih hi hi hi hi  hi!
  *
  */
 public class App 
